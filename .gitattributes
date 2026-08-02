@@ -1,0 +1,17 @@
+# Generated on 2026-11-07
+# This file is used to override language statistics
+# Normalize line endings
+*.yaml linguist-detectable=false
+package-lock.json linguist-generated
+*.woff binary
+app/*.tsx linguist-detectable
+*.md linguist-documentation
+
+public/*.html linguist-vendored
+*.woff2 binary
+app/**/*.tsx linguist-detectable
+*.min.css linguist-generated
+*.html linguist-vendored
+
+go.sum linguist-generated
+# eof 82e97cef
